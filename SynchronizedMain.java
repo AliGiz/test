@@ -6,6 +6,7 @@ package colourThread;
 
 public class SynchronizedMain {
 
+//adding comment for test
 
         public static void main(String[] args) {
 
