@@ -1,7 +1,7 @@
 package colourThread;
 
 public class SynchronizedRGB {
-
+//add comment for test
     // Values must be between 0 and 255.
     private int red;
     private int green;
